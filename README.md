@@ -1,12 +1,11 @@
 # TodoActivity
 <b>TODO gif</b>
 <br />
-<b>Homepage</b>
-<img src="homepage/todo.gif" width="250" height="400">
+<img src="todo.gif" width="250" height="400">
 <br />
 <b>Home landscape</b>
 <br />
-<img src="homeland.PNG" width="250" height="400">
+<img src="homeland.png" width="400" height="250">
 <br />
 <b>Detail</b>
 <br />
@@ -22,5 +21,5 @@
 <br />
 Checked Landscape
 <br />
-<img src="checkedland.png" width="250" height="400">
+<img src="checkedland.png" width="400" height="250">
 <br />
